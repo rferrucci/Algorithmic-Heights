@@ -2,7 +2,7 @@
 
 from algorithms import *
 
-"""Solution to problem in the Algorithmic Heights section of Rosalind
+"""Solution to Insertion Sort problem in the Algorithmic Heights section of Rosalind
 location: http://rosalind.info/problems/ins/
 Problem: returns number of swaps needed to sort array using insertion sort
 """
