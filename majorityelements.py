@@ -2,7 +2,7 @@
 
 from algorithms import *
 
-"""Solution to problem in the Algorithmic Heights section of Rosalind
+"""Solution to Majority Element problem in the Algorithmic Heights section of Rosalind
 location: http://rosalind.info/problems/ddeg/
 Problem: Given an array of integers, return element that is found more than n/2
 times. Else, return -1
