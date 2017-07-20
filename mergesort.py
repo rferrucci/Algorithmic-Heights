@@ -2,7 +2,7 @@
 
 from algorithms import *
 
-"""Solution to problem in the Algorithmic Heights section of Rosalind
+"""Solution to Merge Sort problem in the Algorithmic Heights section of Rosalind
 location: http://rosalind.info/problems/ddeg/
 Problem: given two sorted array of integers, return a single sorted array
 """
