@@ -2,7 +2,7 @@
 
 from algorithms import *
 
-"""Solution to problem in the Algorithmic Heights section of Rosalind
+"""Solution to 3SUM problem in the Algorithmic Heights section of Rosalind
 location: http://rosalind.info/problems/3sum/
 Problem: Given k arrays of size n, output a list of three indices i, j, k such 
 that A[i] + A[j] + A[k] = 0 for each array A. Otherwise, output -1
