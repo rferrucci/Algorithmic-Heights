@@ -2,7 +2,7 @@
 
 from algorithms import *
 
-"""Solution to problem in the Algorithmic Heights section of Rosalind
+"""Solution to 2SUM problem in the Algorithmic Heights section of Rosalind
 location: http://rosalind.info/problems/2sum/
 Problem: Given k arrays of size n, output a list of paired indices i, j such that 
 A[i] = -A[j] for each array A. Otherwise, output -1
