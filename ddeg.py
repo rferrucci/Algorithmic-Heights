@@ -2,7 +2,7 @@
 
 from algorithms import *
 
-"""Solution to problem in the Algorithmic Heights section of Rosalind
+"""Solution to Degree Array problem in the Algorithmic Heights section of Rosalind
 location: http://rosalind.info/problems/ddeg/
 Problem: given an array of integers consituting a graph, return an array D[1..n] 
 where D[i] is the sum of degrees of i's neighbors
